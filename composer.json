@@ -18,6 +18,7 @@
         "infyomlabs/laravel-generator": "^3.1.0",
         "ladumor/one-signal": "^0.3.4",
         "laravel/framework": "^8.12",
+        "laravel/passport": "^10.3",
         "laravel/tinker": "^2.5",
         "laravel/ui": "^3.0",
         "laravelcollective/html": "^6.2",

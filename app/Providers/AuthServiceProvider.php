@@ -5,8 +5,7 @@ namespace App\Providers;
 use Illuminate\Foundation\Support\Providers\AuthServiceProvider as ServiceProvider;
 use Illuminate\Contracts\Auth\Access\Gate as GateContract;
 use Illuminate\Support\Facades\Gate;
-use App\Models\Role;
-use PhpOffice\PhpSpreadsheet\Calculation\Financial\TreasuryBill;
+use Laravel\Passport\Passport;
 
 class AuthServiceProvider extends ServiceProvider
 {
@@ -38,5 +37,8 @@ class AuthServiceProvider extends ServiceProvider
 
             return null;
         });
+        if (!$this->app->routesAreCached()) {
+            Passport::routes();
+        }
     }
 }
