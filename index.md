@@ -1,8 +1,8 @@
-## Welcome to FastLaravel
+## Welcome to laravel boilerplate
 
 # Laravel Boilerplate for AdminLTE Theme
 
-Laravel Boilerplate with [AdminLTE](https://adminlte.io/) Theme with [FastLaravel](https://github.com/FastXGroup/FastLaravel).
+Laravel Boilerplate with [AdminLTE](https://adminlte.io/) Theme with [laravel-boilerplate](https://github.com/BoilerplateX/laravel-boilerplate).
 
 Youtube: https://www.youtube.com/watch?v=tk9CJU9W7BU
 
