@@ -1,10 +1,10 @@
-# i maintain move to : https://github.com/oengine/laravel-module-plugin-theme-boilerplate
+# i maintain move to : https://github.com/fireaz/laravel-boilerplate
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 # Laravel Boilerplate for AdminLTE Theme
 
-Laravel Boilerplate with [AdminLTE](https://adminlte.io/) Theme with [Laravel Boilerplate](https://github.com/OpenHau/laravel-boilerplate).
+Laravel Boilerplate with [AdminLTE](https://adminlte.io/) Theme with [Laravel Boilerplate](https://github.com/fireaz/laravel-boilerplate).
 
 Youtube: https://www.youtube.com/watch?v=tk9CJU9W7BU
 
