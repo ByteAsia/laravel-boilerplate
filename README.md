@@ -1,4 +1,4 @@
-# i maintain move to : https://github.com/fireaz/laravel-boilerplate
+follow me: [https://github.com/BitSudo](https://github.com/BitSudo) or [https://bit-sudo.com/](https://bit-sudo.com/)
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
@@ -51,7 +51,7 @@ Following things are ready to be used directly with AdminLTE Theme.
 
 Once everything is installed, you are ready to go with generator.
 
-see: https://hau.xyz
+see: [https://hau.xyz](https://hau.xyz)
 
 ## Vue 3 + bootstrap 5 + Bootstrap Icons: 
 
