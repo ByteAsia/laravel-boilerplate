@@ -1,4 +1,5 @@
-follow me: [https://github.com/BitSudo](https://github.com/BitSudo) or [https://bit-sudo.com/](https://bit-sudo.com/)
+
+Project New:https://github.com/bykit/laravel-module-boilerplate
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
