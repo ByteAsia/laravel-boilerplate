@@ -1,6 +1,4 @@
 
-Project New:https://github.com/bykit/laravel-module-boilerplate
-
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 # Laravel Boilerplate for AdminLTE Theme
