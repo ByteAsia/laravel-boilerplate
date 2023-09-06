@@ -1,58 +1,110 @@
-## Welcome to laravel boilerplate
+<p align="center"><img style="width:60px; border-radius: 3px;" src="./bytechasia_logo.jpg">
+<img src="https://laravel.com/assets/img/components/logo-laravel.svg">
+</p>
 
-# Laravel Boilerplate for AdminLTE Theme
+# Laravel Boilerplate
 
-Laravel Boilerplate with [AdminLTE](https://adminlte.io/) Theme with [laravel-boilerplate](https://github.com/BoilerplateX/laravel-boilerplate).
+Touch Star Follow package: https://github.com/bykit/bykit/
 
-Youtube: https://www.youtube.com/watch?v=tk9CJU9W7BU
+## Feature(New):
 
-Following things are ready to be used directly with AdminLTE Theme.
+-   Modules
+-   Themes
+-   Plugins
+-   Actions
+-   ShortCodes
+-   CURD Base
+-   Auth(User,Role,Permission)
+-   Setting
 
-- Signup
-- Login
-- Forgot Password
-- Password Reset
-- Home Layout with Sidebar
-- User Manager
-- Role Manager
-- Permission Manager
-- Checkin/out User
-- Chart Checkin/out of user on dashboard
-- Update Profile
-- Multi Languages
-- Generator Builder
+## Technology used:
 
-## To Do
-- Change password
+-   Laravel 10x
+-   Livewire 3x
+-   unisharp/laravel-filemanager 2.6
+-   staudenmeir/eloquent-eager-limit 1.8.3
+-   Boostrap 5x
+-   Tabler and Tabler-icon
 
-## Next Plan
-- Timeline on profile
-- FastBlog base from FastLaravel
+## Requirements
 
-## Packages Installed
-- Laravel 8.12
-- InfyOm Laravel Generator
-- AdminLTE Templates
-- Laravel UI
-- Laravel Collective
-- Spatie/laravel-permission
-- barryvdh/laravel-debugbar
-- yajra/laravel-datatables
+PHP 8.2+
+
+## Installation
+
+You can install package via composer
+
+```bash
+$ composer install
+$ php artisan migrate
+$ php artisan b:setup
+$ php artisan vendor:publish --tag=lfm_config
+$ php artisan vendor:publish --tag=lfm_public
+
+```
+
+***Note***: If the interface is experiencing an error, please delete the 'bykit' folder within the 'public' folder and refresh the website page. The error should be resolved automatically.
+
+```bash
+account: admin@hau.xyz
+password: AdMin@123
+
+```
 
 ## Usage
 
-1. Clone/Download a repo.
-2. Copy `.env.example` file to `.env` & Setup your environment variables
-3. Run `composer install`
-4. Generate application key by running `php artisan key:generate`
-5. Run `php artisan migrate --seed`
-6. Run `php artisan serve`
-7. Login account:
-- Supper Admin: admin@fastlaravel.dev/123@12
-- Guest: guest@fastlaravel.dev/123@123
-- Leader: leader@fastlaravel.dev/123@123
+Make module:
 
-Once everything is installed, you are ready to go with generator.
+```bash
+$ php artisan mb:module Demo3 -a true -f true
+```
 
-Contact: nguyenvanhaudev@gmail.com
+Make plugin:
 
+```bash
+$ php artisan mb:plugin Demo3 -a true -f true
+```
+
+Make theme:
+
+```bash
+$ php artisan mb:theme Demo3 -a true -t theme -f true
+```
+
+## Screens
+
+<p align="center"><img src="./images/Screenshot1.png"></p>
+<p align="center"><img src="./images/Screenshot2.png"></p>
+<p align="center"><img src="./images/Screenshot3.png"></p>
+<p align="center"><img src="./images/Screenshot4.png"></p>
+<p align="center"><img src="./images/Screenshot5.png"></p>
+<p align="center"><img src="./images/Screenshot6.png"></p>
+<p align="center"><img src="./images/Screenshot7.png"></p>
+<p align="center"><img src="./images/Screenshot8.png"></p>
+<p align="center"><img src="./images/Screenshot9.png"></p>
+<p align="center"><img src="./images/Screenshot10.png"></p>
+<p align="center"><img src="./images/Screenshot11.png"></p>
+<p align="center"><img src="./images/Screenshot12.png"></p>
+<p align="center"><img src="./images/Screenshot13.png"></p>
+<p align="center"><img src="./images/Screenshot14.png"></p>
+<p align="center"><img src="./images/Screenshot15.png"></p>
+<p align="center"><img src="./images/Screenshot16.png"></p>
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+https://github.com/bykit/bykit/discussions
+
+Please make sure to update tests as appropriate.
+
+## Product list:
+
+[Free Online Tutorials](https://tutorialaz.com/)
+
+site: https://bytechasia.com/
+
+email contact: nguyenvanhaudev@gmail.com
+
+## License
+
+[MIT](./LICENSE)
