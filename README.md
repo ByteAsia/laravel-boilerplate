@@ -40,7 +40,10 @@ $ php artisan migrate
 $ php artisan b:setup
 $ php artisan vendor:publish --tag=lfm_config
 $ php artisan vendor:publish --tag=lfm_public
+
 ```
+
+***Note***: If the interface is experiencing an error, please delete the 'bykit' folder within the 'public' folder and refresh the website page. The error should be resolved automatically.
 
 ```bash
 account: admin@hau.xyz
