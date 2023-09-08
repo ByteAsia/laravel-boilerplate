@@ -93,7 +93,7 @@ $ php artisan mb:theme Demo3 -a true -t theme -f true
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-https://github.com/bykit/bykit/discussions
+https://github.com/byteplatform/byteplatform/discussions
 
 Please make sure to update tests as appropriate.
 
