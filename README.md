@@ -4,7 +4,7 @@
 
 # Laravel Boilerplate
 
-Touch Star Follow package: https://github.com/bykit/bykit/
+Touch Star Follow package: [https://github.com/BytePlatform/BytePlatform](https://github.com/BytePlatform/BytePlatform)
 
 ## Feature(New):
 
