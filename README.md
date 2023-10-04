@@ -6,6 +6,10 @@
 
 Touch Star Follow package: https://github.com/byteplatform/byteplatform
 
+# Laravel Builder Lalipage:
+
+https://github.com/BytePlatform/laravel-builder-community
+
 ## Feature(New):
 
 -   Modules
